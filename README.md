@@ -1,5 +1,6 @@
-# LLM-based-Agent Papers
-In the era of large language models (LLMs), the LLM-based agents have shown remarkable performance in several existing benchmarks or real-world applications.
+# Papers for LLM-based Agents Collaboration
+In the era of large language models (LLMs), LLM-based agents have shown remarkable performance in several existing benchmarks or real-world applications. Nevertheless, they still face difficulties in 
+ tackling complex tasks. Inspired by collaborative problem solving, several recent works use the strategy of multi-agent collaboration as a potential solution.
 
 We collect the **Must-read papers** to catch up and share the state-of-the-art methods, facilitating the related research. 
 
@@ -12,15 +13,18 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 
 
 
-2. 
-
-
-
 ## Multi-Agent Collaboration
 
 
 
 1. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate [[ICLR2023](https://arxiv.org/pdf/2305.19118.pdf)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
-   - Commonsense Machine Translation, Counter-Intuitive Arithmetic Reasoning
+- task: MT (machine translation), Math
+- Dataset: Commonsense Machine Translation, Counter-Intuitive Arithmetic Reasoning
 
 2. 
+
+
+## Acknoledgement
+
+
+## Contact
