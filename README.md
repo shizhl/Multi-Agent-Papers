@@ -21,7 +21,9 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 - task: MT (machine translation), Math
 - Dataset: Commonsense Machine Translation, Counter-Intuitive Arithmetic Reasoning
 
-2. 
+2. AUTOGEN: ENABLING NEXT-GEN LLM APPLICATIONS VIA MULTI-AGENT CONVERSATION[[ICLR2024](https://openreview.net/pdf?id=tEAF9LBdgu)][[code](https://anonymous.4open.science/r/autogen-iclr2024/README.md)]
+- task:Math, QA, Decision, Coding, Chat, Chess
+- Dataset: MATH, Natural Questions, ALFWorld
 
 
 ## Acknoledgement
