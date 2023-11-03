@@ -24,7 +24,7 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 2. AUTOGEN: ENABLING NEXT-GEN LLM APPLICATIONS VIA MULTI-AGENT CONVERSATION[[ICLR2024](https://openreview.net/pdf?id=tEAF9LBdgu)][[code](https://anonymous.4open.science/r/autogen-iclr2024/README.md)]
 - task:Math, QA, Decision, Coding, Chat, Chess
 - Dataset: MATH, Natural Questions, ALFWorld
-3. CHAIN-OF-EXPERTS: WHEN LLMS MEET COMPLEX OPERATIONS RESEARCH PROBLEMS[[ICLR2024](https://openreview.net/pdf?id=HobyL1B9CZ)[code](https://github.com/nl4opt/nl4opt-competition)]
+3. CHAIN-OF-EXPERTS: WHEN LLMS MEET COMPLEX OPERATIONS RESEARCH PROBLEMS[[ICLR2024](https://openreview.net/pdf?id=HobyL1B9CZ)][[code](https://github.com/nl4opt/nl4opt-competition)]
 - task: Math(LP)
 - Dataset: LPWP, ComplexOR
 
