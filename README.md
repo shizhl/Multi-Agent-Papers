@@ -43,7 +43,7 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 - task:Path Planning, QA,Math reasoning
 - Dataset:ALFWorld, HotpotQA, GSM8k
 
-8. GENTVERSE: FACILITATING MULTI-AGENT COLLABORATION AND EXPLORING EMERGENT BEHAVIORS[[ICIR2024](https://openreview.net/pdf?id=EHg5GDnyq1)][[code](https://github.com/OpenBMB/AgentVerse.)]
+8. AGENTVERSE: FACILITATING MULTI-AGENT COLLABORATION AND EXPLORING EMERGENT BEHAVIORS[[ICIR2024](https://openreview.net/pdf?id=EHg5GDnyq1)][[code](https://github.com/OpenBMB/AgentVerse.)]
 - task:Conversation, Mathematical Calculation, Logical Reasoning, Coding
 - Dataset:FED, Commongen-Challenge, MGSM, BigBench, Humaneval
 
