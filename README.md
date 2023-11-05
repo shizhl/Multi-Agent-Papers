@@ -32,6 +32,21 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 4. OKR-AGENT: AN OBJECT AND KEY RESULTS DRIVEN AGENT SYSTEM WITH HIERARCHICAL SELF-COLLABORATION AND SELF-EVALUATION[[ICLR2024](https://openreview.net/pdf?id=Mngdhgi711)]
 - task: storyboard generation, creative writing, trip planning
 
+5. REASON TO BEHAVE: ACHIEVING HUMAN-LEVEL TASK EXECUTION FOR PHYSICS-BASED CHARACTERS[[ICLR2024](https://openreview.net/pdf?id=Y6PVsnkKVV)][[code](https://sites.google.com/view/reasontobehave)]
+- task: Path Planning
+- Dataset: MoCap
+
+6. GHOST IN THE MINECRAFT: HIERARCHICAL AGENTSFOR MINECRAFT VIA LARGE LANGUAGE MODELS WITH TEXT-BASED KNOWLEDGE AND MEMORY[[ICIR2024](https://openreview.net/pdf?id=cTOL99p5HL)]
+- task:Path Planning
+
+7. ADAPTING LLM AGENTS THROUGH COMMUNICATION[[ICIR2024](https://openreview.net/pdf?id=wOelVq8fwL)]
+- task:Path Planning, QA,Math reasoning
+- Dataset:ALFWorld, HotpotQA, GSM8k
+
+8. GENTVERSE: FACILITATING MULTI-AGENT COLLABORATION AND EXPLORING EMERGENT BEHAVIORS[[ICIR2024](https://openreview.net/pdf?id=EHg5GDnyq1)][[code](https://github.com/OpenBMB/AgentVerse.)]
+- task:Conversation, Mathematical Calculation, Logical Reasoning, Coding
+- Dataset:FED, Commongen-Challenge, MGSM, BigBench, Humaneval
+
 
 ## Acknoledgement
 
