@@ -47,6 +47,39 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 - task:Conversation, Mathematical Calculation, Logical Reasoning, Coding
 - Dataset:FED, Commongen-Challenge, MGSM, BigBench, Humaneval
 
+9.DEBATEGPT: FINE-TUNING LARGE LANGUAGE MODELS WITH MULTI-AGENT DEBATE SUPERVISION[[ICIR2024](https://openreview.net/pdf?id=ChNy95ovpF)]
+- task:Reasoning, Math
+- Dataset:AlpacaEval, MMLU, Arithmetic, Winogrande, AI2 Reasoning Challenge
+
+10. Corex: PUSHING THE BOUNDARIES OF COMPLEX REASONING THROUGH MULTI-MODEL COLLABORATION[[ICIR2024](https://openreview.net/pdf?id=GDdxmymrwL)][[code](https://anonymous.4open.science/r/Corex)]
+- task:Reasoning
+- Dataset:GSM8K, MultiArith, SingleOP/SingleEQ, AddSub, AQuA, SVAMP,GSMHard,StrategyQA, CommonsenseQA, BoolQ ,AI2 Reasoning Challenge (ARC-c),BigBench,FinQA, ConvFinQA, TAT-QA
+
+11. CHATEVAL: TOWARDS BETTER LLM-BASED EVALUATORS THROUGH MULTI-AGENT DEBATE[[ICIR2024](https://openreview.net/pdf?id=FQepisCUWu)]
+- task:QA
+- Dataset:FairEval, Topical-Chat
+
+ 12. LANGUAGE AGENTS WITH REINFORCEMENT LEARNING FOR STRATEGIC PLAY IN THE WEREWOLF GAM[[ICIR2024](https://openreview.net/pdf?id=N1gmpVd4iE)]
+- task:Werewolf game
+
+ 13.DYNAMIC LLM-AGENT NETWORK:AN LLM-AGENT COLLABORATION FRAMEWORK WITH AGENT TEAM OPTIMIZATION[[ICIR2024](https://openreview.net/pdf?id=i43XCU54Br)]
+- task:arithmetic reasoning, general reasoning, code generation.
+- Dataset:MATH, MMLU, HumanEval
+
+14. WELFARE DIPLOMACY:BENCHMARKING LANGUAGE MODEL COOPERATION[[ICIR2024](https://openreview.net/pdf?id=AKJLnDgzkm)][[code](https://anonymous.4open.science/r/welfare-diplomacy-72AC)]
+
+15. MINDAGENT: EMERGENT GAMING INTERACTION[[ICIR2024](https://openreview.net/pdf?id=p9pBJv1DTz)]
+- task:CuisineWorld
+
+16. BUILDING COOPERATIVE EMBODIED AGENTS MODULARLY WITH LARGE LANGUAGE MODEL[[ICIR2024](https://openreview.net/pdf?id=EnXJfQqy0K)][[code](https://llm-co.github.io/CoELA/.)]
+- Dataset:ThreeDWorld Multi-Agent Transport (TDW-MAT)
+
+17. AUTOAGENTS: A FRAMEWORK FOR AUTOMATICAGENT GENERATION [[ICIR2024](https://openreview.net/pdf?id=PhJUd3mbhP)][[code](https://anonymous.4open.science/r/AutoAgents-747C.)]
+- task:Open-ended Question Answer task,Trivia Creative Writing
+
+18. METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK[[ICIR2024](https://openreview.net/pdf?id=VtmBAGCN7o)]
+- task:Coding
+- Dataset:HumanEval, MBPP, SoftwareDev
 
 ## Acknoledgement
 
