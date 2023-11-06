@@ -6,15 +6,12 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 
 ## LLM-based Agent
 
-
-
 1. ReAct: Synergizing Reasoning and Acting in Language Models [[ICLR2023](https://arxiv.org/abs/2210.03629)] [[code](https://react-lm.github.io/)]
    - Dataset: HotpotQA, FEVER, ALFWorld, WebShop
 
-
+Link: more previous works can be found in [[LLM-based autonomous agent](https://github.com/Paitesanshi/LLM-Agent-Survey#-construction-of-llm-based-autonomous-agent)]. Thanks a lot for pioneering effort.
 
 ## Multi-Agent Collaboration
-
 
 
 1. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate [[ICLR2023](https://arxiv.org/pdf/2305.19118.pdf)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
@@ -81,7 +78,23 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 - task:Coding
 - Dataset:HumanEval, MBPP, SoftwareDev
 
+## Datasets
+We gather information on commonly used datasets for reference. Please be aware that there may be slight difference in the dataset due to different versions.
+
+| Name (link) | Task | Number | Evaluation* | Paper |
+|-------------|------|--------|-------------|-------|
+|   [Hotpot-QA](https://github.com/facebookresearch/KILT)  | open-domain QA   |   train/dev/test:  88k/5.6k/5.6k    |    Exactly Match (EM)    |   [Paper](https://aclanthology.org/D18-1259.pdf)    |
+|             |      |        |             |       |
+
+
+
 ## Acknoledgement
+Acknowledging all the paper authors for their excellent works. We also extend our thanks to all contributors.
+
+**For Contribution**: There are cases where we miss important works in this field, please contribute to this repo! Thanks for the efforts in advance.
 
 
 ## Contact
+For any question, feel free to contact us. We also welcome any form of collaboration.
+
+Email: shizhl@mail.sdu.edu.cn
