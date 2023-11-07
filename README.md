@@ -18,76 +18,76 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 - task: MT (machine translation), Math
 - Dataset: Commonsense Machine Translation, Counter-Intuitive Arithmetic Reasoning
 
-2. AUTOGEN: ENABLING NEXT-GEN LLM APPLICATIONS VIA MULTI-AGENT CONVERSATION[[ICLR2024](https://openreview.net/pdf?id=tEAF9LBdgu)][[code](https://anonymous.4open.science/r/autogen-iclr2024/README.md)]
+2. Autogen: Enabling Next-Gen Llm Applications Via Multi-Agent Conversation[[ICLR2024](https://openreview.net/pdf?id=tEAF9LBdgu)][[code](https://anonymous.4open.science/r/autogen-iclr2024/README.md)]
 - task:Math, QA, Decision, Coding, Chat, Chess
 - Dataset: MATH, Natural Questions, ALFWorld
 
-3. CHAIN-OF-EXPERTS: WHEN LLMS MEET COMPLEX OPERATIONS RESEARCH PROBLEMS[[ICLR2024](https://openreview.net/pdf?id=HobyL1B9CZ)][[code](https://github.com/nl4opt/nl4opt-competition)]
+3. Chain-Of-Experts: When Llms Meet Complex Operations Research Problems[[ICLR2024](https://openreview.net/pdf?id=HobyL1B9CZ)][[code](https://github.com/nl4opt/nl4opt-competition)]
 - task: Math(LP)
 - Dataset: LPWP, ComplexOR
 
-4. OKR-AGENT: AN OBJECT AND KEY RESULTS DRIVEN AGENT SYSTEM WITH HIERARCHICAL SELF-COLLABORATION AND SELF-EVALUATION[[ICLR2024](https://openreview.net/pdf?id=Mngdhgi711)]
+4. Okr-Agent: An Object And Key Results Driven Agent System With Hierarchical Self-Collaboration And Self-Evaluation[[ICLR2024](https://openreview.net/pdf?id=Mngdhgi711)]
 - task: storyboard generation, creative writing, trip planning
 
-5. REASON TO BEHAVE: ACHIEVING HUMAN-LEVEL TASK EXECUTION FOR PHYSICS-BASED CHARACTERS[[ICLR2024](https://openreview.net/pdf?id=Y6PVsnkKVV)][[code](https://sites.google.com/view/reasontobehave)]
+5. Reason To Behave: Achieving Human-Level Task Execution For Physics-Based Characters[[ICLR2024](https://openreview.net/pdf?id=Y6PVsnkKVV)][[code](https://sites.google.com/view/reasontobehave)]
 - task: Path Planning
 - Dataset: MoCap
 
-6. GHOST IN THE MINECRAFT: HIERARCHICAL AGENTSFOR MINECRAFT VIA LARGE LANGUAGE MODELS WITH TEXT-BASED KNOWLEDGE AND MEMORY[[ICIR2024](https://openreview.net/pdf?id=cTOL99p5HL)]
+6. Ghost In The Minecraft: Hierarchical Agentsfor Minecraft Via Large Language Models With Text-Based Knowledge And Memory[[ICIR2024](https://openreview.net/pdf?id=cTOL99p5HL)]
 - task:Path Planning
 
-7. ADAPTING LLM AGENTS THROUGH COMMUNICATION[[ICIR2024](https://openreview.net/pdf?id=wOelVq8fwL)]
+7. Adapting Llm Agents Through Communication[[ICIR2024](https://openreview.net/pdf?id=wOelVq8fwL)]
 - task:Path Planning, QA,Math reasoning
 - Dataset:ALFWorld, HotpotQA, GSM8k
 
-8. AGENTVERSE: FACILITATING MULTI-AGENT COLLABORATION AND EXPLORING EMERGENT BEHAVIORS[[ICIR2024](https://openreview.net/pdf?id=EHg5GDnyq1)][[code](https://github.com/OpenBMB/AgentVerse.)]
+8. Agentverse: Facilitating Multi-Agent Collaboration And Exploring Emergent Behaviors[[ICIR2024](https://openreview.net/pdf?id=EHg5GDnyq1)][[code](https://github.com/OpenBMB/AgentVerse.)]
 - task:Conversation, Mathematical Calculation, Logical Reasoning, Coding
 - Dataset:FED, Commongen-Challenge, MGSM, BigBench, Humaneval
 
-9.DEBATEGPT: FINE-TUNING LARGE LANGUAGE MODELS WITH MULTI-AGENT DEBATE SUPERVISION[[ICIR2024](https://openreview.net/pdf?id=ChNy95ovpF)]
+9.Debategpt: Fine-Tuning Large Language Models With Multi-Agent Debate Supervision[[ICIR2024](https://openreview.net/pdf?id=ChNy95ovpF)]
 - task:Reasoning, Math
 - Dataset:AlpacaEval, MMLU, Arithmetic, Winogrande, AI2 Reasoning Challenge
 
-10. Corex: PUSHING THE BOUNDARIES OF COMPLEX REASONING THROUGH MULTI-MODEL COLLABORATION[[ICIR2024](https://openreview.net/pdf?id=GDdxmymrwL)][[code](https://anonymous.4open.science/r/Corex)]
+10. Corex: Pushing The Boundaries Of Complex Reasoning Through Multi-Model Collaboration[[ICIR2024](https://openreview.net/pdf?id=GDdxmymrwL)][[code](https://anonymous.4open.science/r/Corex)]
 - task:Reasoning
 - Dataset:GSM8K, MultiArith, SingleOP/SingleEQ, AddSub, AQuA, SVAMP,GSMHard,StrategyQA, CommonsenseQA, BoolQ ,AI2 Reasoning Challenge (ARC-c),BigBench,FinQA, ConvFinQA, TAT-QA
 
-11. CHATEVAL: TOWARDS BETTER LLM-BASED EVALUATORS THROUGH MULTI-AGENT DEBATE[[ICIR2024](https://openreview.net/pdf?id=FQepisCUWu)]
+11. Chateval: Towards Better Llm-Based Evaluators Through Multi-Agent Debate[[ICIR2024](https://openreview.net/pdf?id=FQepisCUWu)]
 - task:QA
 - Dataset:FairEval, Topical-Chat
 
- 12. LANGUAGE AGENTS WITH REINFORCEMENT LEARNING FOR STRATEGIC PLAY IN THE WEREWOLF GAM[[ICIR2024](https://openreview.net/pdf?id=N1gmpVd4iE)]
+ 12. Language Agents With Reinforcement Learning For Strategic Play In The Werewolf Gam[[ICIR2024](https://openreview.net/pdf?id=N1gmpVd4iE)]
 - task:Werewolf game
 
- 13.DYNAMIC LLM-AGENT NETWORK:AN LLM-AGENT COLLABORATION FRAMEWORK WITH AGENT TEAM OPTIMIZATION[[ICIR2024](https://openreview.net/pdf?id=i43XCU54Br)]
+ 13.Dynamic Llm-Agent Network:An Llm-Agent Collaboration Framework With Agent Team Optimization[[ICIR2024](https://openreview.net/pdf?id=i43XCU54Br)]
 - task:arithmetic reasoning, general reasoning, code generation.
 - Dataset:MATH, MMLU, HumanEval
 
-14. WELFARE DIPLOMACY:BENCHMARKING LANGUAGE MODEL COOPERATION[[ICIR2024](https://openreview.net/pdf?id=AKJLnDgzkm)][[code](https://anonymous.4open.science/r/welfare-diplomacy-72AC)]
+14. Welfare Diplomacy:Benchmarking Language Model Cooperation[[ICIR2024](https://openreview.net/pdf?id=AKJLnDgzkm)][[code](https://anonymous.4open.science/r/welfare-diplomacy-72AC)]
 
-15. MINDAGENT: EMERGENT GAMING INTERACTION[[ICIR2024](https://openreview.net/pdf?id=p9pBJv1DTz)]
+15. Mindagent: Emergent Gaming Interaction[[ICIR2024](https://openreview.net/pdf?id=p9pBJv1DTz)]
 - task:CuisineWorld
 
-16. BUILDING COOPERATIVE EMBODIED AGENTS MODULARLY WITH LARGE LANGUAGE MODEL[[ICIR2024](https://openreview.net/pdf?id=EnXJfQqy0K)][[code](https://llm-co.github.io/CoELA/.)]
+16. Building Cooperative Embodied Agents Modularly With Large Language Model[[ICIR2024](https://openreview.net/pdf?id=EnXJfQqy0K)][[code](https://llm-co.github.io/CoELA/.)]
 - Dataset:ThreeDWorld Multi-Agent Transport (TDW-MAT)
 
-17. AUTOAGENTS: A FRAMEWORK FOR AUTOMATICAGENT GENERATION [[ICIR2024](https://openreview.net/pdf?id=PhJUd3mbhP)][[code](https://anonymous.4open.science/r/AutoAgents-747C.)]
+17. Autoagents: A Framework For Automaticagent Generation [[ICIR2024](https://openreview.net/pdf?id=PhJUd3mbhP)][[code](https://anonymous.4open.science/r/AutoAgents-747C.)]
 - task:Open-ended Question Answer task,Trivia Creative Writing
 
-18. METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK[[ICIR2024](https://openreview.net/pdf?id=VtmBAGCN7o)]
+18. Metagpt: Meta Programming For A Multi-Agent Collaborative Framework[[ICIR2024](https://openreview.net/pdf?id=VtmBAGCN7o)]
 - task:Coding
 - Dataset:HumanEval, MBPP, SoftwareDev
 
-19. OCEANGPT: A LARGE LANGUAGE MODEL FOR OCEAN SCIENCE TASKS[[ICIR2024](https://openreview.net/pdf?id=pbfy04zvcH)]
+19. Oceangpt: A Large Language Model For Ocean Science Tasks[[ICIR2024](https://openreview.net/pdf?id=pbfy04zvcH)]
 - task:ocean-related task
 
-20. EXPLORING COLLABORATION MECHANISMS FOR LLM AGENTS: A SOCIAL PSYCHOLOGY VIEW[[ICIR2024](https://openreview.net/pdf?id=ueqTjOcuLc)]
+20. Exploring Collaboration Mechanisms For Llm Agents: A Social Psychology View[[ICIR2024](https://openreview.net/pdf?id=ueqTjOcuLc)]
 - Dataset:MMLU, MATH, Chess Move Validity
 
-21. PLAYING REPEATED GAMES WITH LARGE LANGUAGE MODELS[[ICIR2024](https://openreview.net/pdf?id=CSpWgKo0ID)]
+21. Playing Repeated Games With Large Language Models[[ICIR2024](https://openreview.net/pdf?id=CSpWgKo0ID)]
 - task:cooperation and coordination games.
 
-22.LARGE LANGUAGE MODELS CAN DESIGN GAMETHEORETIC OBJECTIVES FOR MULTI-AGENT PLANNING[[ICIR2024](https://openreview.net/pdf?id=DnkCvB8iXR)]
+22.Large Language Models Can Design Gametheoretic Objectives For Multi-Agent Planning[[ICIR2024](https://openreview.net/pdf?id=DnkCvB8iXR)]
 - task: Embodied Intelligence 
 - Dataset:ThreeDWorld Transport Challenge
 
