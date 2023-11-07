@@ -56,7 +56,7 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 - task:QA
 - Dataset:FairEval, Topical-Chat
 
- 12. LANGUAGE AGENTS WITH REINFORCEMENT LEARNING FOR STRATEGIC PLAY IN THE WEREWOLF GAM[[ICIR2024](https://openreview.net/pdf?id=N1gmpVd4iE)]
+ 12. LANGUAGE AGENTS WITH REINFORCEMENT LEARNING FOR STRATEGIC PLAY IN THE WEREWOLF GAM[[ICIR2024](https://openreview.net/pdf?id=N1gmpVd4iE)]
 - task:Werewolf game
 
  13.DYNAMIC LLM-AGENT NETWORK:AN LLM-AGENT COLLABORATION FRAMEWORK WITH AGENT TEAM OPTIMIZATION[[ICIR2024](https://openreview.net/pdf?id=i43XCU54Br)]
@@ -87,7 +87,7 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 21. PLAYING REPEATED GAMES WITH LARGE LANGUAGE MODELS[[ICIR2024](https://openreview.net/pdf?id=CSpWgKo0ID)]
 - task:cooperation and coordination games.
 
-22.LARGE LANGUAGE MODELS CAN DESIGN GAMETHEORETIC OBJECTIVES FOR MULTI-AGENT PLANNING[[ICIR2024](https://openreview.net/pdf?id=DnkCvB8iXR)]
+22.LARGE LANGUAGE MODELS CAN DESIGN GAMETHEORETIC OBJECTIVES FOR MULTI-AGENT PLANNING[[ICIR2024](https://openreview.net/pdf?id=DnkCvB8iXR)]
 - task: Embodied Intelligence 
 - Dataset:ThreeDWorld Transport Challenge
 
