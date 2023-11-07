@@ -78,6 +78,19 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 - task:Coding
 - Dataset:HumanEval, MBPP, SoftwareDev
 
+19. OCEANGPT: A LARGE LANGUAGE MODEL FOR OCEAN SCIENCE TASKS[[ICIR2024](https://openreview.net/pdf?id=pbfy04zvcH)]
+- task:ocean-related task
+
+20. EXPLORING COLLABORATION MECHANISMS FOR LLM AGENTS: A SOCIAL PSYCHOLOGY VIEW[[ICIR2024](https://openreview.net/pdf?id=ueqTjOcuLc)]
+- Dataset:MMLU, MATH, Chess Move Validity
+
+21. PLAYING REPEATED GAMES WITH LARGE LANGUAGE MODELS[[ICIR2024](https://openreview.net/pdf?id=CSpWgKo0ID)]
+- task:cooperation and coordination games.
+
+22.LARGE LANGUAGE MODELS CAN DESIGN GAMETHEORETIC OBJECTIVES FOR MULTI-AGENT PLANNING[[ICIR2024](https://openreview.net/pdf?id=DnkCvB8iXR)]
+- task: Embodied Intelligence 
+- Dataset:ThreeDWorld Transport Challenge
+
 ## Datasets
 We gather information on commonly used datasets for reference. Please be aware that there may be slight difference in the dataset due to different versions.
 
