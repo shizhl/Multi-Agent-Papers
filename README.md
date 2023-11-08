@@ -106,6 +106,7 @@ We gather information on commonly used datasets for reference. Please be aware t
 |   [mmlu](https://huggingface.co/datasets/cais/mmlu)|multiple-choice questions|train/dev/test:  99.8k/285/1.531k||[paper](https://arxiv.org/pdf/2009.03300.pdf)|
 |   [math](https://github.com/hendrycks/math/)|reasoning|||[paper](https://github.com/hendrycks/math/)|
 |   [ALFWorld](https://github.com/alfworld/alfworld)|Embodied AI|||[paper](https://arxiv.org/pdf/2010.03768.pdf)|
+|   [HOTPOTQA](https://hotpotqa.github.io/)|QA|||[paper](https://arxiv.org/pdf/1809.09600.pdf)|
 |             |      |        |             |       |
 
 
