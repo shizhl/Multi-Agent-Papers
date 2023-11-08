@@ -108,7 +108,7 @@ We gather information on commonly used datasets for reference. Please be aware t
 |[ALFWorld](https://github.com/alfworld/alfworld)|Embodied AI|||[paper](https://arxiv.org/pdf/2010.03768.pdf)|
 |[HOTPOTQA](https://hotpotqa.github.io/)|QA|||[paper](https://arxiv.org/pdf/1809.09600.pdf)|
 |[Natural Questions](https://ai.google.com/research/NaturalQuestions)|QA|30.7k//0.78k||[paper](https://aclanthology.org/Q19-1026/)|
-|[GSM8K] (https://github.com/openai/grade-school-math)         |   reasoning   |        |             |  [paper](https://arxiv.org/abs/2110.14168)     |
+|[GSM8K](https://github.com/openai/grade-school-math)         |   reasoning   |        |             |  [paper](https://arxiv.org/abs/2110.14168)     |
 |[Humaneval](https://github.com/openai/human-eval)|coding|||[paper](https://arxiv.org/abs/2107.03374)|
 |[BigBench](https://huggingface.co/datasets/bigbench)|coding|||[paper](https://doi.org/10.48550/arxiv.2206.04615)|
 |[AI2 Reasoning Challenge](https://allenai.org/data/arc)|choice question|||[paper](https://www.semanticscholar.org/paper/Think-you-have-Solved-Question-Answering-Try-ARC%2C-Clark-Cowhey/88bb0a28bb58d847183ec505dda89b63771bb495)|
@@ -125,6 +125,7 @@ We gather information on commonly used datasets for reference. Please be aware t
 |[ConvFinQA](https://github.com/czyssrs/ConvFinQA)|Numerical Reasoning in Conversational Finance|3k/0.4k/0.4k||[paper](https://arxiv.org/abs/2210.03849)|
 |[TAT-QA](https://github.com/NExTplusplus/TAT-QA)|Finance QA|||[paper](https://arxiv.org/abs/2105.07624)|
 |[MultiArith](https://huggingface.co/datasets/ChilleD/MultiArith)|math||||
+|[common_gen](https://huggingface.co/datasets/common_gen)| constrained text generation task|67.4k/4.02k/1.5k||[paper](https://arxiv.org/abs/1911.03705)|
 ||||||
 
 
