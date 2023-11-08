@@ -27,7 +27,7 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 - Dataset: LPWP, ComplexOR
 
 4. Okr-Agent: An Object And Key Results Driven Agent System With Hierarchical Self-Collaboration And Self-Evaluation[[ICLR2024](https://openreview.net/pdf?id=Mngdhgi711)]
-- task: storyboard generation, creative writing, trip planning
+- task: Storyboard Generation, Creative Writing, Trip Planning
 
 5. Reason To Behave: Achieving Human-Level Task Execution For Physics-Based Characters[[ICLR2024](https://openreview.net/pdf?id=Y6PVsnkKVV)][[code](https://sites.google.com/view/reasontobehave)]
 - task: Path Planning
@@ -79,7 +79,7 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 - Dataset:HumanEval, MBPP, SoftwareDev
 
 19. Oceangpt: A Large Language Model For Ocean Science Tasks[[ICIR2024](https://openreview.net/pdf?id=pbfy04zvcH)]
-- task:ocean-related task
+- task:Ocean-related Task
 
 20. Exploring Collaboration Mechanisms For Llm Agents: A Social Psychology View[[ICIR2024](https://openreview.net/pdf?id=ueqTjOcuLc)]
 - Dataset:MMLU, MATH, Chess Move Validity
@@ -90,6 +90,12 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 22.Large Language Models Can Design Gametheoretic Objectives For Multi-Agent Planning[[ICIR2024](https://openreview.net/pdf?id=DnkCvB8iXR)]
 - task: Embodied Intelligence 
 - Dataset:ThreeDWorld Transport Challenge
+
+23.Metaagents: Simulating Interactions Of HuMan Behaviors For Llm-Based Task-Oriented Coordination Via Collaborative Generative Agents[[ICIR2024](https://arxiv.org/pdf/2310.06500.pdf)]
+- task: Task-oriented Social
+
+24.GameGPT: Multi-agent Collaborative Framework For Game Development[[ICIR2024](https://arxiv.org/pdf/2310.08067.pdf)]
+- task: Coding
 
 ## Datasets
 We gather information on commonly used datasets for reference. Please be aware that there may be slight difference in the dataset due to different versions.
