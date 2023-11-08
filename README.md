@@ -112,15 +112,15 @@ We gather information on commonly used datasets for reference. Please be aware t
 |[Humaneval](https://github.com/openai/human-eval)|coding|||[paper](https://arxiv.org/abs/2107.03374)|
 |[BigBench](https://huggingface.co/datasets/bigbench)|coding|||[paper](https://doi.org/10.48550/arxiv.2206.04615)|
 |[AI2 Reasoning Challenge](https://allenai.org/data/arc)|choice question|||[paper](https://www.semanticscholar.org/paper/Think-you-have-Solved-Question-Answering-Try-ARC%2C-Clark-Cowhey/88bb0a28bb58d847183ec505dda89b63771bb495)|
-|[MGSM](https://huggingface.co/datasets/juletxara/mgsm)|Math|||[paper](https://arxiv.org/abs/2110.14168)|
+|[MGSM](https://huggingface.co/datasets/juletxara/mgsm)|Math|8/0.25k||[paper](https://arxiv.org/abs/2110.14168)|
 |[FairEval](https://github.com/i-Eval/FairEval)|llm evaluation|||[paper](https://arxiv.org/abs/2305.17926)|
-|[MBPP](https://huggingface.co/datasets/mbpp)|coding|||[paper](https://arxiv.org/abs/2108.07732)|
+|[MBPP](https://huggingface.co/datasets/mbpp)|coding|0.37k/0.09k/0.5k||[paper](https://arxiv.org/abs/2108.07732)|
 |[Topical-Chat](https://github.com/alexa/Topical-Chat)|chat|||[paper](https://arxiv.org/abs/2308.11995)|
 |[WinoGrande](https://huggingface.co/datasets/winogrande)|choice|9.25k/1.25k/1.77k||[paper](https://arxiv.org/abs/1907.10641)|
 |[CommonsenseQA](https://allenai.org/data/commonsenseqa)|commonsense knowledge QA|||[paper](https://aclanthology.org/N19-1421/)|
 |[FinQA](https://github.com/czyssrs/FinQA)|Numerical Reasoning over Financial Data|||[paper](https://arxiv.org/abs/2109.00122)|
 |[boolq](https://huggingface.co/datasets/boolq)|yes/no questions|9.23k//3.27k||[paper](https://arxiv.org/abs/1905.10044)|
-|[GSMHard](https://huggingface.co/datasets/reasoning-machines/gsm-hard)|math||||
+|[GSMHard](https://huggingface.co/datasets/reasoning-machines/gsm-hard)|math|1.32k//|||
 |[SVAMP](https://github.com/arkilpatel/SVAMP)|math|||[paper](https://arxiv.org/abs/2103.07191)|
 |[ConvFinQA](https://github.com/czyssrs/ConvFinQA)|Numerical Reasoning in Conversational Finance|3k/0.4k/0.4k||[paper](https://arxiv.org/abs/2210.03849)|
 |[TAT-QA](https://github.com/NExTplusplus/TAT-QA)|Finance QA|||[paper](https://arxiv.org/abs/2105.07624)|
