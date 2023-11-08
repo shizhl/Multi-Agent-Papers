@@ -102,12 +102,30 @@ We gather information on commonly used datasets for reference. Please be aware t
 
 | Name (link) | Task | Number | Evaluation* | Paper |
 |-------------|------|--------|-------------|-------|
-|   [Hotpot-QA](https://github.com/facebookresearch/KILT)  | open-domain QA   |   train/dev/test:  88k/5.6k/5.6k    |    Exactly Match (EM)    |   [Paper](https://aclanthology.org/D18-1259.pdf)    |
-|   [mmlu](https://huggingface.co/datasets/cais/mmlu)|multiple-choice questions|train/dev/test:  99.8k/285/1.531k||[paper](https://arxiv.org/pdf/2009.03300.pdf)|
-|   [math](https://github.com/hendrycks/math/)|reasoning|||[paper](https://github.com/hendrycks/math/)|
-|   [ALFWorld](https://github.com/alfworld/alfworld)|Embodied AI|||[paper](https://arxiv.org/pdf/2010.03768.pdf)|
-|   [HOTPOTQA](https://hotpotqa.github.io/)|QA|||[paper](https://arxiv.org/pdf/1809.09600.pdf)|
-|             |      |        |             |       |
+|[Hotpot-QA](https://github.com/facebookresearch/KILT)  | open-domain QA   |   train/dev/test:  88k/5.6k/5.6k    |    Exactly Match (EM)    |   [Paper](https://aclanthology.org/D18-1259.pdf)    |
+|[mmlu](https://huggingface.co/datasets/cais/mmlu)|multiple-choice questions|train/dev/test:  99.8k/285/1.531k||[paper](https://arxiv.org/pdf/2009.03300.pdf)|
+|[math](https://github.com/hendrycks/math/)|reasoning|||[paper](https://github.com/hendrycks/math/)|
+|[ALFWorld](https://github.com/alfworld/alfworld)|Embodied AI|||[paper](https://arxiv.org/pdf/2010.03768.pdf)|
+|[HOTPOTQA](https://hotpotqa.github.io/)|QA|||[paper](https://arxiv.org/pdf/1809.09600.pdf)|
+|[Natural Questions](https://ai.google.com/research/NaturalQuestions)|QA|30.7k//0.78k||[paper](https://aclanthology.org/Q19-1026/)|
+|[GSM8K] (https://github.com/openai/grade-school-math)         |   reasoning   |        |             |  [paper](https://arxiv.org/abs/2110.14168)     |
+|[Humaneval](https://github.com/openai/human-eval)|coding|||[paper](https://arxiv.org/abs/2107.03374)|
+|[BigBench](https://huggingface.co/datasets/bigbench)|coding|||[paper](https://doi.org/10.48550/arxiv.2206.04615)|
+|[AI2 Reasoning Challenge](https://allenai.org/data/arc)|choice question|||[paper](https://www.semanticscholar.org/paper/Think-you-have-Solved-Question-Answering-Try-ARC%2C-Clark-Cowhey/88bb0a28bb58d847183ec505dda89b63771bb495)|
+|[MGSM](https://huggingface.co/datasets/juletxara/mgsm)|Math|||[paper](https://arxiv.org/abs/2110.14168)|
+|[FairEval](https://github.com/i-Eval/FairEval)|llm evaluation|||[paper](https://arxiv.org/abs/2305.17926)|
+|[MBPP](https://huggingface.co/datasets/mbpp)|coding|||[paper](https://arxiv.org/abs/2108.07732)|
+|[Topical-Chat](https://github.com/alexa/Topical-Chat)|chat|||[paper](https://arxiv.org/abs/2308.11995)|
+|[WinoGrande](https://huggingface.co/datasets/winogrande)|choice|9.25k/1.25k/1.77k||[paper](https://arxiv.org/abs/1907.10641)|
+|[CommonsenseQA](https://allenai.org/data/commonsenseqa)|commonsense knowledge QA|||[paper](https://aclanthology.org/N19-1421/)|
+|[FinQA](https://github.com/czyssrs/FinQA)|Numerical Reasoning over Financial Data|||[paper](https://arxiv.org/abs/2109.00122)|
+|[boolq](https://huggingface.co/datasets/boolq)|yes/no questions|9.23k//3.27k||[paper](https://arxiv.org/abs/1905.10044)|
+|[GSMHard](https://huggingface.co/datasets/reasoning-machines/gsm-hard)|math||||
+|[SVAMP](https://github.com/arkilpatel/SVAMP)|math|||[paper](https://arxiv.org/abs/2103.07191)|
+|[ConvFinQA](https://github.com/czyssrs/ConvFinQA)|Numerical Reasoning in Conversational Finance|3k/0.4k/0.4k||[paper](https://arxiv.org/abs/2210.03849)|
+|[TAT-QA](https://github.com/NExTplusplus/TAT-QA)|Finance QA|||[paper](https://arxiv.org/abs/2105.07624)|
+|[MultiArith](https://huggingface.co/datasets/ChilleD/MultiArith)|math||||
+||||||
 
 
 
