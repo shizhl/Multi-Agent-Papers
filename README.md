@@ -112,7 +112,7 @@ Thanks a lot for pioneering effort.
 30. Playing Repeated Games With Large Language Models[[ICIR2024](https://openreview.net/pdf?id=CSpWgKo0ID)]
 - task:cooperation and coordination games.
 
-31.Large Language Models Can Design Gametheoretic Objectives For Multi-Agent Planning[[ICIR2024](https://openreview.net/pdf?id=DnkCvB8iXR)]
+31. Large Language Models Can Design Gametheoretic Objectives For Multi-Agent Planning[[ICIR2024](https://openreview.net/pdf?id=DnkCvB8iXR)]
 - task: Embodied Intelligence 
 - Dataset:ThreeDWorld Transport Challenge
 
@@ -125,7 +125,7 @@ Thanks a lot for pioneering effort.
 34. AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems [[paper]](https://arxiv.org/abs/2310.09233)
 - task: Recommendation
 
-35.[2023/10] AutoAgents: A Framework for Automatic Agent Generation. (Peking University) [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
+35. [2023/10] AutoAgents: A Framework for Automatic Agent Generation. (Peking University) [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
 
 36. [2023/08] CGMI: Configurable General Multi-Agent Interaction Framework. (East China Normal University) [[paper](https://arxiv.org/abs/2308.12503)]
 
