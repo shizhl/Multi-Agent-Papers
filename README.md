@@ -6,7 +6,7 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 ## LLM-based Agent
 
 1. ReAct: Synergizing Reasoning and Acting in Language Models [[ICLR2023](https://arxiv.org/abs/2210.03629)] [[code](https://react-lm.github.io/)]
-   - Dataset: HotpotQA, FEVER, ALFWorld, WebShop
+- Dataset: HotpotQA, FEVER, ALFWorld, WebShop
 
 Link: more previous works can be found in:
 - [[LLM-based autonomous agent](https://github.com/Paitesanshi/LLM-Agent-Survey#-construction-of-llm-based-autonomous-agent)]
