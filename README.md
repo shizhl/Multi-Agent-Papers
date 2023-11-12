@@ -125,53 +125,53 @@ Thanks a lot for pioneering effort.
 34. AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems [[paper]](https://arxiv.org/abs/2310.09233)
 - task: Recommendation
 
-35. Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration.[[paper](https://arxiv.org/abs/2307.05300)] [[code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
+35.[2023/10] AutoAgents: A Framework for Automatic Agent Generation. (Peking University) [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
 
-36. RoCo: Dialectic Multi-Robot Collaboration with Large Language Models.[[paper](https://arxiv.org/abs/2307.04738)] [[code](https://project-roco.github.io/)]
+36. [2023/08] CGMI: Configurable General Multi-Agent Interaction Framework. (East China Normal University) [[paper](https://arxiv.org/abs/2308.12503)]
 
-37. ChatLLM Network: More brains, More intelligence. [[paper](https://arxiv.org/abs/2304.12998)]
+37. [2023/08] ProAgent: Building Proactive Cooperative AI with Large Language Models. (The Chinese University of Hong Kong, Shenzhen) [[paper](https://arxiv.org/abs/2308.11339)] [[code](https://pku-proagent.github.io/)]
 
-38. Blind Judgement: Agent-Based Supreme Court Modelling With GPT. [[paper](https://arxiv.org/abs/2301.05327)]
+38. [2023/08] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents. (Tsinghua University)[[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
 
-39. Agents: An Open-source Framework for Autonomous Language Agents.[[paper](https://arxiv.org/pdf/2309.07870.pdf)] [[code](https://github.com/aiwaves-cn/agents)]
+39. [2023/08] AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework. (Pennsylvania State University) [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen/)]
 
-40. AutoAgents: A Framework for Automatic Agent Generation.[[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
+40. [2023/08] MetaGPT: Meta Programming for Multi-Agent Collaborative Framework. (DeepWisdom) [[paper](https://arxiv.org/abs/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
 
-41. CGMI: Configurable General Multi-Agent Interaction Framework.[[paper](https://arxiv.org/abs/2308.12503)]
+41. [2023/08] ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate. (Tsinghua University) [[paper](https://arxiv.org/abs/2308.07201)] [[code](https://github.com/thunlp/ChatEval)]
 
-42. ProAgent: Building Proactive Cooperative AI with Large Language Models. [[paper](https://arxiv.org/abs/2308.11339)] [[code](https://pku-proagent.github.io/)]
+42. [2023/07] Communicative Agents for Software Development. (Tsinghua University) [[paper](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/openbmb/chatdev)]
 
-43. AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents. [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
+43. [2023/07] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration. (University of Illinois Urbana-Champaign) [[paper](https://arxiv.org/abs/2307.05300)] [[code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
 
-44. AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.)[[paper](https://arxiv.org/abs/2308.08155)] [[code](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen/)]
+44. [2023/07] RoCo: Dialectic Multi-Robot Collaboration with Large Language Models. (Columbia University) [[paper](https://arxiv.org/abs/2307.04738)] [[code](https://project-roco.github.io/)]
 
-45. MetaGPT: Meta Programming for Multi-Agent Collaborative Framework.[[paper](https://arxiv.org/abs/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
+45. [2023/06] Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents. (University of Alberta) [[paper](https://arxiv.org/abs/2306.03314)]
 
-46. Communicative Agents for Software Development.[[paper](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/openbmb/chatdev)]
+46. [2023/05] Training Socially Aligned Language Models in Simulated Human Society. (Dartmouth College) [[paper](https://arxiv.org/abs/2305.16960)] [[code](https://github.com/agi-templar/Stable-Alignment)]
 
-47. Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents. [[paper](https://arxiv.org/abs/2306.03314)]
+47. [2023/05] SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks. (Allen Institute for Artificial Intelligence) [[paper](https://arxiv.org/abs/2305.17390)] [[code](https://yuchenlin.xyz/swiftsage/)]
 
-48. Training Socially Aligned Language Models in Simulated Human Society. [[paper](https://arxiv.org/abs/2305.16960)] [[code](https://github.com/agi-templar/Stable-Alignment)]
+48. [2023/05] ChatGPT as your Personal Data Scientist. (Auburn University) [[paper](https://arxiv.org/abs/2305.13657)]
 
-49. SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks. [[paper](https://arxiv.org/abs/2305.17390)] [[code](https://yuchenlin.xyz/swiftsage/)]
+49. [2023/05] Agents: An Open-source Framework for Autonomous Language Agents. (AIWaves) [[paper](https://arxiv.org/pdf/2309.07870.pdf)] [[code](https://github.com/aiwaves-cn/agents)]
 
-50. ChatGPT as your Personal Data Scientist. [[paper](https://arxiv.org/abs/2305.13657)]
+50. [2023/05] Improving Factuality and Reasoning in Language Models through Multiagent Debate. (MIT CSAIL) [[paper](https://arxiv.org/abs/2305.14325)] [[code](https://composable-models.github.io/llm_debate/)]
 
-51. CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society. [[paper](https://arxiv.org/abs/2303.17760)] [[code](https://github.com/lightaime/camel)]
-  
-52. DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents. [[paper](https://arxiv.org/abs/2303.17071)] [[code](https://github.com/curai/curai-research/tree/main/DERA)]
+51. [2023/05] Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback. (University of Edinburgh) [[paper](https://arxiv.org/abs/2305.10142)] [[code](https://github.com/FranxYao/GPT-Bargaining)]
 
-53. Self-collaboration Code Generation via ChatGPT. [[paper](https://arxiv.org/abs/2304.07590)]
+52. [2023/05] Examining the Inter-Consistency of Large Language Models: An In-depth Analysis via Debate. (Harbin Institute of Technology) [[paper](https://arxiv.org/abs/2305.11595)]
 
-54. ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate. [[paper](https://arxiv.org/abs/2308.07201)] [[code](https://github.com/thunlp/ChatEval)]
+53. [2023/05] Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate.  (Tsinghua University) [[paper](https://arxiv.org/abs/2305.19118)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
 
-55. Improving Factuality and Reasoning in Language Models through Multiagent Debate. [[paper](https://arxiv.org/abs/2305.14325)] [[code](https://composable-models.github.io/llm_debate/)]
+54. [2023/04] ChatLLM Network: More brains, More intelligence. (Beijing University of Posts and Telecommunications) [[paper](https://arxiv.org/abs/2304.12998)]
 
-56. Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback. [[paper](https://arxiv.org/abs/2305.10142)] [[code](https://github.com/FranxYao/GPT-Bargaining)]
+55. [2023/04] Self-collaboration Code Generation via ChatGPT. (Peking University) [[paper](https://arxiv.org/abs/2304.07590)]
 
-57. Examining the Inter-Consistency of Large Language Models: An In-depth Analysis via Debate. [[paper](https://arxiv.org/abs/2305.11595)]
+56. [2023/03] CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society. (King Abdullah University of Science and Technology) [[paper](https://arxiv.org/abs/2303.17760)] [[code](https://github.com/lightaime/camel)]
 
-58. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. [[paper](https://arxiv.org/abs/2305.19118)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
+57. [2023/03] DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents. (Curai Health) [[paper](https://arxiv.org/abs/2303.17071)] [[code](https://github.com/curai/curai-research/tree/main/DERA)]
+
+58. [2023/01] Blind Judgement: Agent-Based Supreme Court Modelling With GPT. (McGill University) [[paper](https://arxiv.org/abs/2301.05327)]
 
 
 ## Datasets
