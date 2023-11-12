@@ -59,65 +59,65 @@ Thanks a lot for pioneering effort.
 15. Ghost In The Minecraft: Hierarchical Agentsfor Minecraft Via Large Language Models With Text-Based Knowledge And Memory[[ICIR2024](https://openreview.net/pdf?id=cTOL99p5HL)]
 - task:Path Planning
 
-7. Adapting Llm Agents Through Communication[[ICIR2024](https://openreview.net/pdf?id=wOelVq8fwL)]
+16. Adapting Llm Agents Through Communication[[ICIR2024](https://openreview.net/pdf?id=wOelVq8fwL)]
 - task:Path Planning, QA,Math reasoning
 - Dataset:ALFWorld, HotpotQA, GSM8k
 
-8. Agentverse: Facilitating Multi-Agent Collaboration And Exploring Emergent Behaviors[[ICIR2024](https://openreview.net/pdf?id=EHg5GDnyq1)][[code](https://github.com/OpenBMB/AgentVerse.)]
+17. Agentverse: Facilitating Multi-Agent Collaboration And Exploring Emergent Behaviors[[ICIR2024](https://openreview.net/pdf?id=EHg5GDnyq1)][[code](https://github.com/OpenBMB/AgentVerse.)]
 - task:Conversation, Mathematical Calculation, Logical Reasoning, Coding
 - Dataset:FED, Commongen-Challenge, MGSM, BigBench, Humaneval
 
-9. Debategpt: Fine-Tuning Large Language Models With Multi-Agent Debate Supervision[[ICIR2024](https://openreview.net/pdf?id=ChNy95ovpF)]
+18. Debategpt: Fine-Tuning Large Language Models With Multi-Agent Debate Supervision[[ICIR2024](https://openreview.net/pdf?id=ChNy95ovpF)]
 - task:Reasoning, Math
 - Dataset:AlpacaEval, MMLU, Arithmetic, Winogrande, AI2 Reasoning Challenge
 
-10. Corex: Pushing The Boundaries Of Complex Reasoning Through Multi-Model Collaboration[[ICIR2024](https://openreview.net/pdf?id=GDdxmymrwL)][[code](https://anonymous.4open.science/r/Corex)]
+19. Corex: Pushing The Boundaries Of Complex Reasoning Through Multi-Model Collaboration[[ICIR2024](https://openreview.net/pdf?id=GDdxmymrwL)][[code](https://anonymous.4open.science/r/Corex)]
 - task:Reasoning
 - Dataset:GSM8K, MultiArith, SingleOP/SingleEQ, AddSub, AQuA, SVAMP,GSMHard,StrategyQA, CommonsenseQA, BoolQ ,AI2 Reasoning Challenge (ARC-c),BigBench,FinQA, ConvFinQA, TAT-QA
 
-11. Chateval: Towards Better Llm-Based Evaluators Through Multi-Agent Debate[[ICIR2024](https://openreview.net/pdf?id=FQepisCUWu)]
+20. Chateval: Towards Better Llm-Based Evaluators Through Multi-Agent Debate[[ICIR2024](https://openreview.net/pdf?id=FQepisCUWu)]
 - task:QA
 - Dataset:FairEval, Topical-Chat
 
-12. Language Agents With Reinforcement Learning For Strategic Play In The Werewolf Gam[[ICIR2024](https://openreview.net/pdf?id=N1gmpVd4iE)]
+21. Language Agents With Reinforcement Learning For Strategic Play In The Werewolf Gam[[ICIR2024](https://openreview.net/pdf?id=N1gmpVd4iE)]
 - task:Werewolf game
 
-13. Dynamic Llm-Agent Network:An Llm-Agent Collaboration Framework With Agent Team Optimization[[ICIR2024](https://openreview.net/pdf?id=i43XCU54Br)]
+22. Dynamic Llm-Agent Network:An Llm-Agent Collaboration Framework With Agent Team Optimization[[ICIR2024](https://openreview.net/pdf?id=i43XCU54Br)]
 - task:arithmetic reasoning, general reasoning, code generation.
 - Dataset:MATH, MMLU, HumanEval
 
-14. Welfare Diplomacy:Benchmarking Language Model Cooperation[[ICIR2024](https://openreview.net/pdf?id=AKJLnDgzkm)][[code](https://anonymous.4open.science/r/welfare-diplomacy-72AC)]
+23. Welfare Diplomacy:Benchmarking Language Model Cooperation[[ICIR2024](https://openreview.net/pdf?id=AKJLnDgzkm)][[code](https://anonymous.4open.science/r/welfare-diplomacy-72AC)]
 
-15. Mindagent: Emergent Gaming Interaction[[ICIR2024](https://openreview.net/pdf?id=p9pBJv1DTz)]
+24. Mindagent: Emergent Gaming Interaction[[ICIR2024](https://openreview.net/pdf?id=p9pBJv1DTz)]
 - task:CuisineWorld
 
-16. Building Cooperative Embodied Agents Modularly With Large Language Model[[ICIR2024](https://openreview.net/pdf?id=EnXJfQqy0K)][[code](https://llm-co.github.io/CoELA/.)]
+25. Building Cooperative Embodied Agents Modularly With Large Language Model[[ICIR2024](https://openreview.net/pdf?id=EnXJfQqy0K)][[code](https://llm-co.github.io/CoELA/.)]
 - Dataset:ThreeDWorld Multi-Agent Transport (TDW-MAT)
 
-17. Autoagents: A Framework For Automaticagent Generation [[ICIR2024](https://openreview.net/pdf?id=PhJUd3mbhP)][[code](https://anonymous.4open.science/r/AutoAgents-747C.)]
+26. Autoagents: A Framework For Automaticagent Generation [[ICIR2024](https://openreview.net/pdf?id=PhJUd3mbhP)][[code](https://anonymous.4open.science/r/AutoAgents-747C.)]
 - task:Open-ended Question Answer task,Trivia Creative Writing
 
-18. Metagpt: Meta Programming For A Multi-Agent Collaborative Framework[[ICIR2024](https://openreview.net/pdf?id=VtmBAGCN7o)]
+27. Metagpt: Meta Programming For A Multi-Agent Collaborative Framework[[ICIR2024](https://openreview.net/pdf?id=VtmBAGCN7o)]
 - task:Coding
 - Dataset:HumanEval, MBPP, SoftwareDev
 
-19. Oceangpt: A Large Language Model For Ocean Science Tasks[[ICIR2024](https://openreview.net/pdf?id=pbfy04zvcH)]
+28. Oceangpt: A Large Language Model For Ocean Science Tasks[[ICIR2024](https://openreview.net/pdf?id=pbfy04zvcH)]
 - task:Ocean-related Task
 
-20. Exploring Collaboration Mechanisms For Llm Agents: A Social Psychology View[[ICIR2024](https://openreview.net/pdf?id=ueqTjOcuLc)]
+29. Exploring Collaboration Mechanisms For Llm Agents: A Social Psychology View[[ICIR2024](https://openreview.net/pdf?id=ueqTjOcuLc)]
 - Dataset:MMLU, MATH, Chess Move Validity
 
-21. Playing Repeated Games With Large Language Models[[ICIR2024](https://openreview.net/pdf?id=CSpWgKo0ID)]
+30. Playing Repeated Games With Large Language Models[[ICIR2024](https://openreview.net/pdf?id=CSpWgKo0ID)]
 - task:cooperation and coordination games.
 
-22.Large Language Models Can Design Gametheoretic Objectives For Multi-Agent Planning[[ICIR2024](https://openreview.net/pdf?id=DnkCvB8iXR)]
+31.Large Language Models Can Design Gametheoretic Objectives For Multi-Agent Planning[[ICIR2024](https://openreview.net/pdf?id=DnkCvB8iXR)]
 - task: Embodied Intelligence 
 - Dataset:ThreeDWorld Transport Challenge
 
-23. Metaagents: Simulating Interactions Of HuMan Behaviors For Llm-Based Task-Oriented Coordination Via Collaborative Generative Agents[[ICIR2024](https://arxiv.org/pdf/2310.06500.pdf)]
+32. Metaagents: Simulating Interactions Of HuMan Behaviors For Llm-Based Task-Oriented Coordination Via Collaborative Generative Agents[[ICIR2024](https://arxiv.org/pdf/2310.06500.pdf)]
 - task: Task-oriented Social
 
-24. GameGPT: Multi-agent Collaborative Framework For Game Development[[ICIR2024](https://arxiv.org/pdf/2310.08067.pdf)]
+33. GameGPT: Multi-agent Collaborative Framework For Game Development[[ICIR2024](https://arxiv.org/pdf/2310.08067.pdf)]
 - task: Coding
 
 ## Datasets
