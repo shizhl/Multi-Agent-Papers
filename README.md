@@ -11,6 +11,7 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 Link: more previous works can be found in:
 - [[LLM-based autonomous agent](https://github.com/Paitesanshi/LLM-Agent-Survey#-construction-of-llm-based-autonomous-agent)]
 - [[Awesome-Agent-papers]](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent)
+- [[Fdu-LLM-Agent-Paper-List]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 Thanks a lot for pioneering effort.
 
 ## Multi-Agent Collaboration
@@ -122,6 +123,7 @@ Thanks a lot for pioneering effort.
 
 34. AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems [[paper]](https://arxiv.org/abs/2310.09233)
 - task: Recommendation
+
 
 ## Datasets
 We gather information on commonly used datasets for reference. Please be aware that there may be slight difference in the dataset due to different versions.
