@@ -1,4 +1,4 @@
-# Papers for LLM-based Agents Collaboration
+![image](https://github.com/shizhl/Multi-Agent-Papers/assets/71650365/8fc3ca9b-8605-4768-874d-cb8552feb57e)![image](https://github.com/shizhl/Multi-Agent-Papers/assets/71650365/10413980-d618-46dd-b569-f0a40d7fb33c)![image](https://github.com/shizhl/Multi-Agent-Papers/assets/71650365/809c3f8d-3d3b-4bd4-a1ca-bb84c9e11c09)![image](https://github.com/shizhl/Multi-Agent-Papers/assets/71650365/84ca201e-0f28-4fd4-8d1f-041d91987810)![image](https://github.com/shizhl/Multi-Agent-Papers/assets/71650365/75455b7e-9735-4900-81de-b96afa1eee3a)![image](https://github.com/shizhl/Multi-Agent-Papers/assets/71650365/504399b7-1ef0-49bd-abf1-97fc3a62b79d)![image](https://github.com/shizhl/Multi-Agent-Papers/assets/71650365/9e95c4f2-0379-4248-8bb8-84b647ab7ad4)# Papers for LLM-based Agents Collaboration
 In the era of large language models (LLMs), LLM-based agents have shown remarkable performance in several existing benchmarks or real-world applications. Nevertheless, they still face difficulties in 
  tackling complex tasks. Inspired by collaborative problem solving, several recent works use the strategy of multi-agent collaboration as a potential solution.
 
@@ -9,7 +9,10 @@ We collect the **Must-read papers** to catch up and share the state-of-the-art m
 1. ReAct: Synergizing Reasoning and Acting in Language Models [[ICLR2023](https://arxiv.org/abs/2210.03629)] [[code](https://react-lm.github.io/)]
    - Dataset: HotpotQA, FEVER, ALFWorld, WebShop
 
-Link: more previous works can be found in [[LLM-based autonomous agent](https://github.com/Paitesanshi/LLM-Agent-Survey#-construction-of-llm-based-autonomous-agent)]. Thanks a lot for pioneering effort.
+Link: more previous works can be found in:
+- [[LLM-based autonomous agent](https://github.com/Paitesanshi/LLM-Agent-Survey#-construction-of-llm-based-autonomous-agent)]
+- [[Awesome-Agent-papers]](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent)
+Thanks a lot for pioneering effort.
 
 ## Multi-Agent Collaboration
 
@@ -26,14 +29,35 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 - task: Math(LP)
 - Dataset: LPWP, ComplexOR
 
-4. Okr-Agent: An Object And Key Results Driven Agent System With Hierarchical Self-Collaboration And Self-Evaluation[[ICLR2024](https://openreview.net/pdf?id=Mngdhgi711)]
+4. OKR-Agent: An Object And Key Results Driven Agent System With Hierarchical Self-Collaboration And Self-Evaluation[[ICLR2024](https://openreview.net/pdf?id=Mngdhgi711)]
 - task: Storyboard Generation, Creative Writing, Trip Planning
+- Dataset: (case study)
 
 5. Reason To Behave: Achieving Human-Level Task Execution For Physics-Based Characters[[ICLR2024](https://openreview.net/pdf?id=Y6PVsnkKVV)][[code](https://sites.google.com/view/reasontobehave)]
 - task: Path Planning
 - Dataset: MoCap
 
-6. Ghost In The Minecraft: Hierarchical Agentsfor Minecraft Via Large Language Models With Text-Based Knowledge And Memory[[ICIR2024](https://openreview.net/pdf?id=cTOL99p5HL)]
+6. Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models [[paper]](https://arxiv.org/pdf/2310.07937.pdf) [[code]](https://sites.google.com/view/co-navgpt)
+- task: Visual Semantic Navigation
+- Dataset: HM3D
+
+7. Cognitive Architectures For Language [[paper]](https://arxiv.org/pdf/2309.02427.pdf)
+
+8. Multi-agent Consensus Seeking Via Large Language Models [[paper]](https://arxiv.org/abs/2310.20151)
+
+9. Openagi: When LLM Meets Domain Experts [[paper]](https://arxiv.org/abs/2304.04370)
+
+10. Evaluating Multi-agent Coordination Abilities In Large Language Models [[paper]](https://arxiv.org/pdf/2310.03903.pdf)
+
+11. Communicative Agents For Software Development [[paper]](https://arxiv.org/abs/2307.07924)
+
+12. Describe, Explain, Plan And Select: Interactive Planning With Large Language Models Enables Open-world Multi-task Agents [[paper]](https://arxiv.org/abs/2302.01560)
+
+13. Exploring Collaboration Mechanisms For Llm Agents: A Social Psychology View [[paper]](https://arxiv.org/abs/2310.02124)
+
+14. When Large Language Model Based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm [[paper]](https://arxiv.org/abs/2306.02552)
+
+15. Ghost In The Minecraft: Hierarchical Agentsfor Minecraft Via Large Language Models With Text-Based Knowledge And Memory[[ICIR2024](https://openreview.net/pdf?id=cTOL99p5HL)]
 - task:Path Planning
 
 7. Adapting Llm Agents Through Communication[[ICIR2024](https://openreview.net/pdf?id=wOelVq8fwL)]
@@ -44,7 +68,7 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 - task:Conversation, Mathematical Calculation, Logical Reasoning, Coding
 - Dataset:FED, Commongen-Challenge, MGSM, BigBench, Humaneval
 
-9.Debategpt: Fine-Tuning Large Language Models With Multi-Agent Debate Supervision[[ICIR2024](https://openreview.net/pdf?id=ChNy95ovpF)]
+9. Debategpt: Fine-Tuning Large Language Models With Multi-Agent Debate Supervision[[ICIR2024](https://openreview.net/pdf?id=ChNy95ovpF)]
 - task:Reasoning, Math
 - Dataset:AlpacaEval, MMLU, Arithmetic, Winogrande, AI2 Reasoning Challenge
 
@@ -56,10 +80,10 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 - task:QA
 - Dataset:FairEval, Topical-Chat
 
- 12. Language Agents With Reinforcement Learning For Strategic Play In The Werewolf Gam[[ICIR2024](https://openreview.net/pdf?id=N1gmpVd4iE)]
+12. Language Agents With Reinforcement Learning For Strategic Play In The Werewolf Gam[[ICIR2024](https://openreview.net/pdf?id=N1gmpVd4iE)]
 - task:Werewolf game
 
- 13.Dynamic Llm-Agent Network:An Llm-Agent Collaboration Framework With Agent Team Optimization[[ICIR2024](https://openreview.net/pdf?id=i43XCU54Br)]
+13. Dynamic Llm-Agent Network:An Llm-Agent Collaboration Framework With Agent Team Optimization[[ICIR2024](https://openreview.net/pdf?id=i43XCU54Br)]
 - task:arithmetic reasoning, general reasoning, code generation.
 - Dataset:MATH, MMLU, HumanEval
 
@@ -91,10 +115,10 @@ Link: more previous works can be found in [[LLM-based autonomous agent](https://
 - task: Embodied Intelligence 
 - Dataset:ThreeDWorld Transport Challenge
 
-23.Metaagents: Simulating Interactions Of HuMan Behaviors For Llm-Based Task-Oriented Coordination Via Collaborative Generative Agents[[ICIR2024](https://arxiv.org/pdf/2310.06500.pdf)]
+23. Metaagents: Simulating Interactions Of HuMan Behaviors For Llm-Based Task-Oriented Coordination Via Collaborative Generative Agents[[ICIR2024](https://arxiv.org/pdf/2310.06500.pdf)]
 - task: Task-oriented Social
 
-24.GameGPT: Multi-agent Collaborative Framework For Game Development[[ICIR2024](https://arxiv.org/pdf/2310.08067.pdf)]
+24. GameGPT: Multi-agent Collaborative Framework For Game Development[[ICIR2024](https://arxiv.org/pdf/2310.08067.pdf)]
 - task: Coding
 
 ## Datasets
@@ -127,6 +151,10 @@ We gather information on commonly used datasets for reference. Please be aware t
 |[MultiArith](https://huggingface.co/datasets/ChilleD/MultiArith)|math||||
 |[common_gen](https://huggingface.co/datasets/common_gen)| constrained text generation task|67.4k/4.02k/1.5k||[paper](https://arxiv.org/abs/1911.03705)|
 ||||||
+
+## Evaluation
+1. Theory Of Mind For Multi-agent Collaboration Via Large Language Models [[paper]](https://arxiv.org/pdf/2310.10701.pdf)
+2. Evaluating Large Language Models at Evaluating Instruction Following [[paper]](https://openreview.net/forum?id=tr0KidwPLc)
 
 
 
