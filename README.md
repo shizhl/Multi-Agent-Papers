@@ -120,6 +120,9 @@ Thanks a lot for pioneering effort.
 33. GameGPT: Multi-agent Collaborative Framework For Game Development[[ICIR2024](https://arxiv.org/pdf/2310.08067.pdf)]
 - task: Coding
 
+34. AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems [[paper]](https://arxiv.org/abs/2310.09233)
+- task: Recommendation
+
 ## Datasets
 We gather information on commonly used datasets for reference. Please be aware that there may be slight difference in the dataset due to different versions.
 
