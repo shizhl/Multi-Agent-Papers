@@ -125,6 +125,54 @@ Thanks a lot for pioneering effort.
 34. AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems [[paper]](https://arxiv.org/abs/2310.09233)
 - task: Recommendation
 
+35. Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration.[[paper](https://arxiv.org/abs/2307.05300)] [[code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
+
+36. RoCo: Dialectic Multi-Robot Collaboration with Large Language Models.[[paper](https://arxiv.org/abs/2307.04738)] [[code](https://project-roco.github.io/)]
+
+37. ChatLLM Network: More brains, More intelligence. [[paper](https://arxiv.org/abs/2304.12998)]
+
+38. Blind Judgement: Agent-Based Supreme Court Modelling With GPT. [[paper](https://arxiv.org/abs/2301.05327)]
+
+39. Agents: An Open-source Framework for Autonomous Language Agents.[[paper](https://arxiv.org/pdf/2309.07870.pdf)] [[code](https://github.com/aiwaves-cn/agents)]
+
+40. AutoAgents: A Framework for Automatic Agent Generation.[[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
+
+41. CGMI: Configurable General Multi-Agent Interaction Framework.[[paper](https://arxiv.org/abs/2308.12503)]
+
+42. ProAgent: Building Proactive Cooperative AI with Large Language Models. [[paper](https://arxiv.org/abs/2308.11339)] [[code](https://pku-proagent.github.io/)]
+
+43. AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents. [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
+
+44. AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.)[[paper](https://arxiv.org/abs/2308.08155)] [[code](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen/)]
+
+45. MetaGPT: Meta Programming for Multi-Agent Collaborative Framework.[[paper](https://arxiv.org/abs/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
+
+46. Communicative Agents for Software Development.[[paper](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/openbmb/chatdev)]
+
+47. Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents. [[paper](https://arxiv.org/abs/2306.03314)]
+
+48. Training Socially Aligned Language Models in Simulated Human Society. [[paper](https://arxiv.org/abs/2305.16960)] [[code](https://github.com/agi-templar/Stable-Alignment)]
+
+49. SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks. [[paper](https://arxiv.org/abs/2305.17390)] [[code](https://yuchenlin.xyz/swiftsage/)]
+
+50. ChatGPT as your Personal Data Scientist. [[paper](https://arxiv.org/abs/2305.13657)]
+
+51. CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society. [[paper](https://arxiv.org/abs/2303.17760)] [[code](https://github.com/lightaime/camel)]
+  
+52. DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents. [[paper](https://arxiv.org/abs/2303.17071)] [[code](https://github.com/curai/curai-research/tree/main/DERA)]
+
+53. Self-collaboration Code Generation via ChatGPT. [[paper](https://arxiv.org/abs/2304.07590)]
+
+54. ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate. [[paper](https://arxiv.org/abs/2308.07201)] [[code](https://github.com/thunlp/ChatEval)]
+
+55. Improving Factuality and Reasoning in Language Models through Multiagent Debate. [[paper](https://arxiv.org/abs/2305.14325)] [[code](https://composable-models.github.io/llm_debate/)]
+
+56. Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback. [[paper](https://arxiv.org/abs/2305.10142)] [[code](https://github.com/FranxYao/GPT-Bargaining)]
+
+57. Examining the Inter-Consistency of Large Language Models: An In-depth Analysis via Debate. [[paper](https://arxiv.org/abs/2305.11595)]
+
+58. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. [[paper](https://arxiv.org/abs/2305.19118)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
+
 
 ## Datasets
 We gather information on commonly used datasets for reference. Please be aware that there may be slight difference in the dataset due to different versions.
