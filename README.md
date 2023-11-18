@@ -290,9 +290,22 @@ We gather information on commonly used datasets for reference. Please be aware t
 |[ToolQA](https://github.com/night-chen/ToolQA/tree/main)|Use external tools for question answering|1.5k|Success rate in answering questions|[paper](https://arxiv.org/pdf/2306.13304.pdf)
 ||||||
 
+## Simulation with Multi-agent
+1. Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation
+2. Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game
+3. Welfare Diplomacy: Benchmarking Language Model Cooperation
+4. Rethinking the Buyer’s Inspection Paradox in Information Markets with Language Agents
+5. Lyfe Agents: generative agents for low-cost real-time social interactions
+6. SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series
+7. SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents
+
 ## Evaluation
 1. Theory Of Mind For Multi-agent Collaboration Via Large Language Models [[paper]](https://arxiv.org/pdf/2310.10701.pdf)
 2. Evaluating Large Language Models at Evaluating Instruction Following [[paper]](https://openreview.net/forum?id=tr0KidwPLc)
+3. AgentBench: Evaluating LLMs as Agents
+4. Identifying the Risks of LM Agents with an LM-Emulated Sandbox*
+5. Evaluating Multi-Agent Coordination Abilities in Large Language Models
+6. SmartPlay : A Benchmark for LLMs as Intelligent Agents
 
 
 
